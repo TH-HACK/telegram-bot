@@ -30,4 +30,4 @@ if __name__ == '__main__':
     except Exception as e:
         print("لم يشتغل:", e)
         
-webhook_url = "https://telegram-3et6ymtjk-l7ajs-projects.vercel.app"  # استبدله بـ URL Vercel الخاص بك
+webhook_url = "https://telegram-rla4jetmd-l7ajs-projects.vercel.app"  # استبدله بـ URL Vercel الخاص بك
